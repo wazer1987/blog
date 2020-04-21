@@ -1,17 +1,17 @@
 ---
-title: 异步组件和mock的基本使用
+title: 异步组件
 top: true
 cover: true
 toc: true
 comments: true
 lang: zh-CN
 abbrlink: 3abe74fc
-tags: [Vue,Mock]
+tags: [Vue]
 categories: Vue教程
 date: 2020-04-21 16:16:38
 updated:
 password:
-summary: 异步组件和mock的基本使用
+summary: 异步组件
 ---
 # 异步组件
 
