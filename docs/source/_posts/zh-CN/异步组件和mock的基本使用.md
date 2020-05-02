@@ -1,7 +1,7 @@
 ---
 title: 异步组件
 top: true
-cover: true
+cover: false
 toc: true
 comments: true
 lang: zh-CN

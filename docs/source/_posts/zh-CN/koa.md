@@ -1,7 +1,7 @@
 ---
 title: Koa
 top: false
-cover: true
+cover: false
 toc: true
 comments: true
 lang: zh-CN
