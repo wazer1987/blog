@@ -8,7 +8,7 @@ lang: zh-CN
 summary: 本文主要介绍uni-app的一些常见操作。
 tags: [uni-app, node]
 categories: 基础教程
-abbrlink: e19785da
+abbrlink: 8cfcd0f4
 date: 2020-03-18 22:11:21
 updated:
 password:
