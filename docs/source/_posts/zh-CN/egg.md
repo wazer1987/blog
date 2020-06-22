@@ -1,7 +1,7 @@
 ---
 title: Egg进阶
 top: true
-cover: true
+cover: false
 toc: true
 comments: true
 lang: zh-CN
